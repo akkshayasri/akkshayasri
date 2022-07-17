@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @akkshayasri
-- 👀 I’m interested in Data Analystics.
-- 🌱 I’m currently learning deep learning and how to visualize the data effectively using BI tools such as Power BI, Kibana
+- 👀 I’m interested in Business Analytics and Data Analystics.
+- 🌱 I’m currently thriving to learn and gain more knowledge about deep learning.
+I would like to enhance my coding skills and gain wider knowledge on subjective areas. 
+
 
 
 <!---
